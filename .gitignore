@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Arquivos compilados
+*.o
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
